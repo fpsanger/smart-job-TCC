@@ -1,0 +1,26 @@
+{
+  "name": "smart-job-TCC",
+  "version": "1.0.0",
+  "description": "O projeto tem como objetivo proporcionar uma plataforma para encontrar as melhores vagas disponibilizadas por empresas. O desenvolvimento backend foi realizado utilizando JavaScript e Express.js, um framework para construir aplicações web com RESTful APIs.",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^5.3.3",
+    "express": "^4.18.3",
+    "primeng": "^17.9.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fpsanger/smart-job-TCC.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fpsanger/smart-job-TCC/issues"
+  },
+  "homepage": "https://github.com/fpsanger/smart-job-TCC#readme"
+}
